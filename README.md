@@ -27,5 +27,4 @@
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,json,svg,threejs,php,python,java,nodejs,npm,mysql,docker,git,github,githubcopilot,githubpages,ubuntu,windows,visualstudiocode,vercel,android,telegram,wordpress,bing,googlechrome,firefox,steam,ollama,claudeai,cohere,chatgpt,deepseek,googlegemini,grok,cursor,capcut,homeassistant,windsurf,x" /><br>
 <p></p>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H2O-ME&layout=donut&custom_title=GitHub 使用语言统计" /> </div>
-
+<div align="center"> <img src="http://i0.hdslb.com/bfs/new_dyn/1ff36732d121a1c78b9155282c741f3d1493192317.gif" /> </div>
