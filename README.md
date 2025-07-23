@@ -26,4 +26,5 @@
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,json,svg,threejs,php,python,java,nodejs,npm,mysql,docker,git,github,githubcopilot,githubpages,ubuntu,windows,visualstudiocode,vercel,android,telegram,wordpress,bing,googlechrome,firefox,steam,ollama,claudeai,cohere,chatgpt,deepseek,googlegemini,grok,cursor,capcut,homeassistant,windsurf,x" /><br>
-
+<p></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
