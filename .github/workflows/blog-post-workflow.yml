@@ -17,3 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.tianhw.top/rss.xml"
+          # 关键修改：添加 template 参数，确保每个列表项占一行
+          template: "- [$title]($url)\n"
