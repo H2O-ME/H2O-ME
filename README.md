@@ -1,30 +1,61 @@
-<div align="center" >
+<!--
+✨ 欢迎来到 THW 的 GitHub 主页！
+本 README 使用 Markdown + 外部 SVG/API 实现动态效果
+-->
 
-<!-- just img 图片 -->
-<img src="https://avatars.githubusercontent.com/u/128902578" width="250" height="250" />
-<h1>THW的GitHub页面</h1>
-<!--  skill badge 技能徽章 -->
+<h1 align="center">👋 Hi, I'm THW</h1>
+<h3 align="center">Frontend Developer | 高中生 coder</h3>
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=64FFDA&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code;Love+Astro%2C+TypeScript%2C+and+Open+Source;Currently+learning+AI+and+Web+Infra" alt="Typing SVG" />
+</p>
 
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
-![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
+---
 
-<p></p>
+### 📊 GitHub
 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skills.syvixor.com/api/icons?i=html,css,javascript,json,svg,threejs,php,python,java,nodejs,npm,mysql,docker,git,github,githubcopilot,githubpages,ubuntu,windows,visualstudiocode,vercel,android,telegram,wordpress,bing,googlechrome,firefox,steam,ollama,claudeai,cohere,chatgpt,deepseek,googlegemini,grok,cursor,capcut,homeassistant,windsurf,x" /><br>
-<p></p>
-<div align="center"> <img src="http://i0.hdslb.com/bfs/new_dyn/1ff36732d121a1c78b9155282c741f3d1493192317.gif" /> </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=h2o-me&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&locale=zh_Hans&short_numbers=%E9%94%99%E8%AF%AF%E7%9A%84)](https://git.io/streak-stats)
+
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://astro.build/assets/favicon.svg" alt="Astro" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
+</p>
+
+---
+
+### 📰 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://blog.tianhw.top" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-64FFDA?style=for-the-badge&logo=RSS&logoColor=white" alt="Blog" />
+  </a>
+  <a href="mailto:thw0221@qq.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://space.bilibili.com/3546583645816948" target="_blank">
+    <img src="https://img.shields.io/badge/Bilibili-FF7276?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+  </a>
+  <a href="https://github.com/h2o-me" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
