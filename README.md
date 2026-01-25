@@ -20,6 +20,11 @@
   <div>
    博客文章列表
     <!-- BLOG-POST-LIST:START -->
-    <!-- BLOG-POST-LIST:END -->
+- [使用宝塔面板部署 AstrBot 与 NapCat 实现 QQ 机器人](https://blog.tianhw.top/posts/bt-astrbot-napcat/)
+- [如何在宝塔面板部署 Cloudreve 网盘](https://blog.tianhw.top/posts/btcloudreve/)
+- [用 EdgeOne Pages 搭建随机图床](https://blog.tianhw.top/posts/edgeone-random-picture/)
+- [让 Fuwari 在新标签页打开链接](https://blog.tianhw.top/posts/fuwari-newtab-links/)
+- [用 IPFS 搭了个免费图床](https://blog.tianhw.top/posts/ipfs-img-host/)
+<!-- BLOG-POST-LIST:END -->
   </div>
 </div>
