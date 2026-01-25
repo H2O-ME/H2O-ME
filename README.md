@@ -1,66 +1,38 @@
-<!--
-✨ 欢迎来到 THW 的 GitHub 主页！
-本 README 使用 Markdown + 外部 SVG/API 实现动态效果
--->
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm THW</h1>
-<h3 align="center">Frontend Developer | 高中生 coder</h3>
+  <!-- 头像与核心身份 (置顶) -->
+  <img src="https://github.com/h2o-me.png" width="150" height="150" alt="Profile Avatar" style="border-radius: 50%; margin-top: 20px; margin-bottom: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
+  <h1>Hi, I'm THW 👋</h1>
+  <p><i>Frontend Developer | High School Coder</i></p>
+  
+  <!-- 动态问候语与打字机效果 (下移至此) -->
+  <div style="margin-top: 25px; margin-bottom: 10px;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+THW!;Frontend+Developer+%26+High+School+Coder;Building+cool+things+with+code;Love+Astro%2C+TypeScript%2C+and+Open+Source;Currently+learning+AI+and+Web+Infra" alt="Typing SVG" />
+    </a>
+  </div>
+  
+  <!-- GitHub 统计卡片 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=h2o-me&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=2F80ED&title_color=2F80ED&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h2o-me&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9" alt="Top Languages" />
+  </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=64FFDA&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code;Love+Astro%2C+TypeScript%2C+and+Open+Source;Currently+learning+AI+and+Web+Infra" alt="Typing SVG" />
-</p>
-
----
-
-### 📊 GitHub
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=h2o-me&hide_border=%E9%94%99%E8%AF%AF%E7%9A%84&locale=zh_Hans&short_numbers=%E9%94%99%E8%AF%AF%E7%9A%84)](https://git.io/streak-stats)
+  
+  <!-- 动态博客列表 -->
+  <h3>📰 Latest Blog Posts</h3>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
 
 
----
+    <!-- 快速访问徽章 -->
+  <h3>🔗 Quick Links</h3>
+  <p>
+    <a href="https://blog.tianhw.top"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=RSS&logoColor=white" alt="Blog" /></a>
+    <a href="mailto:thw0221@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://space.bilibili.com/3546583645816948"><img src="https://img.shields.io/badge/Bilibili-FF7276?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>
+    <a href="https://github.com/h2o-me"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+</div>
 
-### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://astro.build/assets/favicon.svg" alt="Astro" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-</p>
-
----
-
-### 📰 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [使用宝塔面板部署 AstrBot 与 NapCat 实现 QQ 机器人](https://blog.tianhw.top/posts/bt-astrbot-napcat/)
-- [如何在宝塔面板部署 Cloudreve 网盘](https://blog.tianhw.top/posts/btcloudreve/)
-- [用 EdgeOne Pages 搭建随机图床](https://blog.tianhw.top/posts/edgeone-random-picture/)
-- [让 Fuwari 在新标签页打开链接](https://blog.tianhw.top/posts/fuwari-newtab-links/)
-- [用 IPFS 搭了个免费图床](https://blog.tianhw.top/posts/ipfs-img-host/)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 📬 Connect With Me
-
-<p align="center">
-  <a href="https://blog.tianhw.top" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-64FFDA?style=for-the-badge&logo=RSS&logoColor=white" alt="Blog" />
-  </a>
-  <a href="mailto:thw0221@qq.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://space.bilibili.com/3546583645816948" target="_blank">
-    <img src="https://img.shields.io/badge/Bilibili-FF7276?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
-  </a>
-  <a href="https://github.com/h2o-me" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
