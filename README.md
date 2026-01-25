@@ -18,9 +18,9 @@
   
   
   <h3>🔗 Quick Links</h3>
-  <p>
+  <div>
    博客文章列表
     <!-- BLOG-POST-LIST:START -->
     <!-- BLOG-POST-LIST:END -->
-  </p>
+  </div>
 </div>
