@@ -16,8 +16,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h2o-me&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9" alt="Top Languages" />
   </div>
   
-  
-  <h3>🔗 Quick Links</h3>
+
   <div>
    博客文章列表
     <!-- BLOG-POST-LIST:START -->
