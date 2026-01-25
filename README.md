@@ -22,15 +22,14 @@
   <!-- 动态博客列表 -->
   <h3>📰 Latest Blog Posts</h3>
   <!-- BLOG-POST-LIST:START -->
-- [使用宝塔面板部署 AstrBot 与 NapCat 实现 QQ 机器人](https://blog.tianhw.top/posts/bt-astrbot-napcat/)
-- [如何在宝塔面板部署 Cloudreve 网盘](https://blog.tianhw.top/posts/btcloudreve/)
-- [用 EdgeOne Pages 搭建随机图床](https://blog.tianhw.top/posts/edgeone-random-picture/)
-- [让 Fuwari 在新标签页打开链接](https://blog.tianhw.top/posts/fuwari-newtab-links/)
-- [用 IPFS 搭了个免费图床](https://blog.tianhw.top/posts/ipfs-img-host/)
-<!-- BLOG-POST-LIST:END -->
+ - [使用宝塔面板部署 AstrBot 与 NapCat 实现 QQ 机器人](https://blog.tianhw.top/posts/bt-astrbot-napcat/)
+ - [如何在宝塔面板部署 Cloudreve 网盘](https://blog.tianhw.top/posts/btcloudreve/)
+ - [用 EdgeOne Pages 搭建随机图床](https://blog.tianhw.top/posts/edgeone-random-picture/)
+ - [让 Fuwari 在新标签页打开链接](https://blog.tianhw.top/posts/fuwari-newtab-links/)
+ - [用 IPFS 搭了个免费图床](https://blog.tianhw.top/posts/ipfs-img-host/)
+ <!-- BLOG-POST-LIST:END -->
 
 
-    <!-- 快速访问徽章 -->
   <h3>🔗 Quick Links</h3>
   <p>
     <a href="https://blog.tianhw.top"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=RSS&logoColor=white" alt="Blog" /></a>
