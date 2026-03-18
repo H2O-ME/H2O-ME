@@ -30,12 +30,6 @@
 </div>
 
 ## 博客最新文章
-<!-- BLOG-POST-LIST:START -->
-- [Windows 安装 FFmpeg 教程](https://blog.tianhw.top/posts/ffmpeg-windows-install/)
-- [恐怖的网络空间测绘——Censys](https://blog.tianhw.top/posts/censys/)
-- [Bilibili 美化扩展 — BewlyCat](https://blog.tianhw.top/posts/bewlycat/)
-- [基于 EdgeOne Pages 函数构建免费的地理位置 API](https://blog.tianhw.top/posts/edgeone-pages-functions-geo/)
-- [使用 Microsoft Clarity 分析网站用户行为](https://blog.tianhw.top/posts/microsoft-clarity/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [为 Fuwari 添加 Uptime Kuma 状态卡片](https://blog.tianhw.top/posts/fuwari-uptime-status-card/)- [Windows 安装 FFmpeg 教程](https://blog.tianhw.top/posts/ffmpeg-windows-install/)- [恐怖的网络空间测绘——Censys](https://blog.tianhw.top/posts/censys/)- [Bilibili 美化扩展 — BewlyCat](https://blog.tianhw.top/posts/bewlycat/)- [基于 EdgeOne Pages 函数构建免费的地理位置 API](https://blog.tianhw.top/posts/edgeone-pages-functions-geo/)<!-- BLOG-POST-LIST:END -->
 
 
