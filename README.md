@@ -30,6 +30,6 @@
 </div>
 
 ## 博客最新文章
-<!-- BLOG-POST-LIST:START -->- [EdgeOne 的免费模型 API 接口](https://blog.tianhw.top/posts/edgeone-free-api/)- [过去的七个月里，我都在忙什么](https://blog.tianhw.top/posts/past-seven-months/)- [为 Fuwari 添加 Uptime Kuma 状态卡片](https://blog.tianhw.top/posts/fuwari-uptime-status-card/)- [Windows 安装 FFmpeg 教程](https://blog.tianhw.top/posts/ffmpeg-windows-install/)- [恐怖的网络空间测绘——Censys](https://blog.tianhw.top/posts/censys/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [服务器网络线路怎么选？](https://blog.tianhw.top/posts/server-network-routing-guide/)- [EdgeOne 的免费模型 API 接口](https://blog.tianhw.top/posts/edgeone-free-api/)- [过去的七个月里，我都在忙什么](https://blog.tianhw.top/posts/past-seven-months/)- [为 Fuwari 添加 Uptime Kuma 状态卡片](https://blog.tianhw.top/posts/fuwari-uptime-status-card/)- [Windows 安装 FFmpeg 教程](https://blog.tianhw.top/posts/ffmpeg-windows-install/)<!-- BLOG-POST-LIST:END -->
 
 
