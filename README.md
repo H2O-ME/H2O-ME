@@ -30,6 +30,6 @@
 </div>
 
 ## 博客最新文章
-<!-- BLOG-POST-LIST:START -->- [免费图床解决方案——PicX](https://blog.tianhw.top/posts/picx/)- [为 Fuwari 添加 Umami 访问统计卡片](https://blog.tianhw.top/posts/fuwari-umami-stats/)- [服务器网络线路怎么选？](https://blog.tianhw.top/posts/server-network-routing-guide/)- [EdgeOne 的免费模型 API 接口](https://blog.tianhw.top/posts/edgeone-free-api/)- [过去的七个月里，我都在忙什么](https://blog.tianhw.top/posts/past-seven-months/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [一文看懂DNS：域名解析的全过程与工作原理](https://blog.tianhw.top/posts/dns-guide/)- [免费图床解决方案——PicX](https://blog.tianhw.top/posts/picx/)- [为 Fuwari 添加 Umami 访问统计卡片](https://blog.tianhw.top/posts/fuwari-umami-stats/)- [服务器网络线路怎么选？](https://blog.tianhw.top/posts/server-network-routing-guide/)- [EdgeOne 的免费模型 API 接口](https://blog.tianhw.top/posts/edgeone-free-api/)<!-- BLOG-POST-LIST:END -->
 
 
