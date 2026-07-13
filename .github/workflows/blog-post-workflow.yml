@@ -17,5 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.tianhw.top/rss.xml"
-          template: |
-            - [$title]($url)
+          template: "- [$title]($url)$newline"
