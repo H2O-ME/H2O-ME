@@ -9,7 +9,13 @@
 
 </div>
 
-![h2o-me's github view count](https://komarev.com/ghpvc/?username=h2o-me) ![stars](https://img.shields.io/github/stars/h2o-me?style=social) ![followers](https://img.shields.io/github/followers/h2o-me?color=%23ff4a4a&logoColor=%23fff&style=plastic)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=h2o-me" alt="h2o-me's github view count" />
+  <img src="https://img.shields.io/github/stars/h2o-me?style=social" alt="stars" />
+  <img src="https://img.shields.io/github/followers/h2o-me?color=%23ff4a4a&logoColor=%23fff&style=plastic" alt="followers" />
+</p>
+
+<div align="center">
 
 ### languages and tools
 
@@ -20,12 +26,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<div style="display: flex">
-  
-  <div>
-    <h3>Github Streaks </h3>
-    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=h2o-me&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="h2o-me" style="height: 200px" /></p>
-  </div>
+</div>
+
+<div align="center">
+
+### Github Streaks
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=h2o-me&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="h2o-me" style="height: 200px" />
 
 </div>
 
@@ -36,7 +43,4 @@
 - [免费图床解决方案——PicX](https://blog.tianhw.top/posts/picx/)
 - [为 Fuwari 添加 Umami 访问统计卡片](https://blog.tianhw.top/posts/fuwari-umami-stats/)
 - [服务器网络线路怎么选？](https://blog.tianhw.top/posts/server-network-routing-guide/)
-
 <!-- BLOG-POST-LIST:END -->
-
-
