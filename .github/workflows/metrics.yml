@@ -10,6 +10,7 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
@@ -30,3 +31,4 @@ jobs:
           plugin_rss_source: https://blog.tianhw.top/rss.xml
           plugin_rss_limit: 4
           config_display: large
+          committer_message: "chore: update metrics [skip ci]"
